@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Community Effects From Misinformation Flags on Twitter
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Recent events including the 2016 election, COVID-19 pandemic, the 2020 election, and the development of a COVID-19 vaccine has laid bare the essential need to prevent misinformation from spreading uncontrollably on social networks. Social media companies have developed systems for preventing the further spread of misinformation. Most notably, some companies have begun placing flags that warn a user of the misinformative content of the post. Research has addressed a way to analyze Twitter users on how conservative versus liberal, moderate versus extreme, and pro-science versus anti-science they are based on their tweet history. We detail a novel machine learning approach to classify users based on three similar dimensions. We then conduct an analysis comparing Twitter users who retweeted flagged tweets versus those who retweeted unflagged tweets, with the tweets coming from high profile conservative Twitter users, such as Eric Trump. Results from the analysis suggest that users who are sharing these flagged tweets tend to be slightly more liberal and more moderate than the users who are sharing unflagged tweets. We propose possible explanations, as well as future work to better understand the impact of misinformation flags.
